@@ -9,7 +9,7 @@
 # Install
 
 ```shell
-$ npm install @umm/recttransform_accessor
+$ npm install github:umm-projects/recttransform_accessor.git
 ```
 
 # Usage
