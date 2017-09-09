@@ -1,6 +1,6 @@
 {
   "name": "@umm/recttransform_accessor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provide accessor for RectTransform to MonoBehaviour",
   "homepage": "https://github.com/umm-projects/recttransform_accessor",
   "bugs": {
