@@ -1,0 +1,10 @@
+{
+  "name": "umm@recttransform_accessor",
+  "references": [
+    "umm@accessor_utility_monobehaviour"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false
+}
