@@ -2,9 +2,9 @@
   "name": "@umm/recttransform_accessor",
   "version": "1.2.1",
   "description": "Provide accessor for RectTransform to MonoBehaviour",
-  "homepage": "https://github.com/umm-projects/recttransform_accessor",
+  "homepage": "https://github.com/umm/recttransform_accessor",
   "bugs": {
-    "url": "https://github.com/umm-projects/recttransform_accessor/issues"
+    "url": "https://github.com/umm/recttransform_accessor/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -22,15 +22,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/recttransform_accessor"
+    "url": "git@github.com:umm/recttransform_accessor"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/accessor_utility_monobehaviour": "umm-projects/accessor_utility_monobehaviour#^1.0.0",
-    "@umm/scripts": "umm-projects/scripts#^1.0.0"
+    "@umm/accessor_utility_monobehaviour": "umm/accessor_utility_monobehaviour#^1.0.0",
+    "@umm/scripts": "umm/scripts#^1.0.0"
   },
   "devDependencies": {},
   "optionalDependencies": {}
